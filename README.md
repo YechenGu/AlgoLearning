@@ -1,18 +1,18 @@
 ## Update
 
-2020-11-29
+2020-11-30
 
 Easy AC
 
-110 543 226
+617 112
 
 Medium AC
 
-144
+230
 
 Easy WA
 
-235
+
 
 Medium WA
 
