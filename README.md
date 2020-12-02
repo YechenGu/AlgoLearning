@@ -1,14 +1,14 @@
 ## Update
 
-2020-11-30
+2020-12-1
 
 Easy AC
 
-617 112
+
 
 Medium AC
 
-230
+
 
 Easy WA
 
