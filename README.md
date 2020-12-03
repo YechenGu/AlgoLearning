@@ -1,14 +1,14 @@
 ## Update
 
-2020-12-1
+2020-12-3
 
 Easy AC
 
-
+509
 
 Medium AC
 
-
+322
 
 Easy WA
 
