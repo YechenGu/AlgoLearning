@@ -1,6 +1,6 @@
 ## Update
 
-2020-12-4
+2020-12-5
 
 Easy AC
 
@@ -8,7 +8,11 @@ Easy AC
 
 Medium AC
 
+46
 
+Hard AC
+
+51
 
 Easy WA
 
@@ -17,6 +21,8 @@ Easy WA
 Medium WA
 
 
+
+Hard WA
 
 
 
